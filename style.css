@@ -3,7 +3,7 @@
 }*/
 
 body {
-    background-image: url(backgroundCover.jpeg);
+    background-image: url(backgroundCover.jpeg) -webkit-image-set();
 }
 
 h2 {
