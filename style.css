@@ -1,0 +1,44 @@
+/*Selector {
+    Property: value;
+}*/
+
+body {
+    background-image: url(backgroundCover.jpeg);
+}
+
+h2 {
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: orange;
+    text-align: center;
+    border: 1px dashed lightgray;
+    cursor: pointer;
+}
+
+img {
+    float: top;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: max-content; 
+    border: 1px solid #252525;
+}
+
+/* p {
+    color: #252525;
+} */
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.webtext {
+    font-weight: medium;
+    font-size: 100%;
+    font-family: 'Roboto', sans-serif;
+    line-height: 20px;
+}
+
+.active {
+    color:#252525;
+}
